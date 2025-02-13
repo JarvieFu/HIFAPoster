@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 20,
+    "height" : 29
+  }, {
+    "width" : 40,
+    "height" : 57
+  }, {
+    "width" : 79,
+    "height" : 113
+  }, {
+    "width" : 158,
+    "height" : 225
+  }, {
+    "width" : 315,
+    "height" : 450
+  }, {
+    "width" : 630,
+    "height" : 900
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 630,
+  "@id" : "https://JarvieFu.github.io/HIFAPoster/images/TangYiHe2023",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 900
+}
